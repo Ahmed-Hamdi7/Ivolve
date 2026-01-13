@@ -1,9 +1,0 @@
-git clone https://github.com/Ibrahim-Adel15/build2.git
-ls 
-cd build2
-tree
-mvn test
-tree
-mvn package 
-tree
-java -jar git clone https://github.com/Ibrahim-Adel15/build2.git
